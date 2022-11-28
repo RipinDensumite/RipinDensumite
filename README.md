@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @RipinDensumite
 
-## I am **student**
+## Nothing To See Here
 
 <!---
 RipinDensumite/RipinDensumite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
