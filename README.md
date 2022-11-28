@@ -2,7 +2,7 @@
 
 >Nothing To **See Here**
 
-![Gas Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Purplesmoke.jpg/220px-Purplesmoke.jpg "GasPicuter")
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png)
 
 <!---
 RipinDensumite/RipinDensumite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
