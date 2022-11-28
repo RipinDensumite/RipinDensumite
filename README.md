@@ -1,8 +1,5 @@
 <h2>- 👋 Hi, I’m @RipinDensumite</h2>
-- 👀 I’m interested in ...<br>
-- 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me ...
+I am <strong>student</strong>
 
 <!---
 RipinDensumite/RipinDensumite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
