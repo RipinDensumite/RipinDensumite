@@ -1,7 +1,6 @@
-#### - 👋 Hi, I’m @RipinDensumite
+# - 👋 Hi, I’m @RipinDensumite
 ```
-##### I am <strong>student</strong>
-<a onclick="windows.alert('lol')">Click Me</a>
+I am **student**
 ```
 <!---
 RipinDensumite/RipinDensumite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
