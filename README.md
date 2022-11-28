@@ -1,4 +1,4 @@
-<h2>- 👋 Hi, I’m @RipinDensumite</h2>
+- 👋 Hi, I’m @RipinDensumite
 ```
 ##### I am <strong>student</strong>
 <a onclick="windows.alert('lol')">Click Me</a>
