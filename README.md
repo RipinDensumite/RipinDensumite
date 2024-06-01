@@ -12,6 +12,11 @@
 |   - JavaScript                                                      | |
 |   - HTML                                                            | |
 |   - CSS                                                             | |
+|   - React                                                           | |
+|   - Next.js                                                         | |
+| Learning:                                                           | |
+|   - Express.js                                                      | |
+|   - Docker                                                          | |
 | $ exit                                                              | |
 |                                                                     | |
 |                                                                     |_|
