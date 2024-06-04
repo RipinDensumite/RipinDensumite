@@ -1,24 +1,10 @@
-## Ripin Terminal
+## 🛠️ Tech Stack
 
-``` shell
-|[] RipinShell                                                    |F]|!"|
-|"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""|"|
-| $ whoami                                                            | |
-| Ripin Densumite                                                     | |
-| $ echo "I make it work, then I make it pretty."                     | |
-| $ cat about_me.txt                                                  | |
-| Name: Ripin Densumite                                               | |
-| Skills:                                                             | |
-|   - JavaScript                                                      | |
-|   - HTML                                                            | |
-|   - CSS                                                             | |
-|   - React                                                           | |
-|   - Next.js                                                         | |
-| Learning:                                                           | |
-|   - Express.js                                                      | |
-|   - Docker                                                          | |
-| $ exit                                                              | |
-|                                                                     | |
-|                                                                     |_|
-|_____________________________________________________________________|/|
+```bash
+$ ls ~/skills
+JavaScript  HTML  CSS  React  Next.js
+
+$ cat ~/learning.txt
+- Express.js
+- Docker
 ```
