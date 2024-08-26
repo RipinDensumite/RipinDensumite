@@ -28,6 +28,7 @@ Greetings, I’m a developer who love technologies and building projects that so
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   - ![Astro](https://img.shields.io/badge/-Astro-FF5A03?style=flat&logo=astro&logoColor=white)
   - ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <!---
 - **Fun Fact:**
