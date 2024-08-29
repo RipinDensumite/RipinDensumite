@@ -15,6 +15,10 @@ Greetings, I’m a developer who love technologies and building projects that so
   - 🔐 Marketing and management system ( Final Year project )
   - 🌐 Bidai management system
 
+- **Operating Systems:**  
+  - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)  
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 - **Languages:** 
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
