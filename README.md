@@ -13,7 +13,9 @@ Greetings, I’m a developer who love technologies and building projects that so
 
 - **Current Projects:**
   - 🔐 Marketing and management system ( Final Year project )
+<!---
   - 🌐 Bidai management system
+-->
 
 - **Operating Systems:**  
   - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)  
