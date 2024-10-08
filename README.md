@@ -1,6 +1,6 @@
 <!-- Header with Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36F7B7&center=true&vCenter=true&width=440&lines=Hello%2C+I'm+Arifin+Densumite;A+Passionate+Software+Engineer;Focused+on+Delivering+Solutions;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Hello%2C+I'm+RipinDensumite;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <!-- Introduction -->
@@ -74,5 +74,5 @@
   Thanks for visiting! 😊 Let's connect and build amazing things together!
 </p>
 <p align="center">
-  Contact : marifin.jamdi@student.gmi.edu.my
+  Contact email : marifin.jamdi@student.gmi.edu.my
 </p>
