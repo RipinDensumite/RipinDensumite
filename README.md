@@ -73,3 +73,6 @@
   <br>
   Thanks for visiting! 😊 Let's connect and build amazing things together!
 </p>
+<p align="center">
+  Contact : marifin.jamdi@student.gmi.edu.my
+</p>
