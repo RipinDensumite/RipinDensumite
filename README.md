@@ -27,4 +27,4 @@ I am a passionate **Software Engineering Student** at the **German-Malaysian Ins
 - **LinkedIn:** [Ripin Densumite](https://www.linkedin.com/in/arifindensumite)
 
 ---
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+✨ _“even though my brain is somewhat slow, I am capable at locating resources and solving errors as long as I have access to the internet.”_ ✨
