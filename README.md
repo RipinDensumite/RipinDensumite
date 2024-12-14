@@ -1,23 +1,30 @@
-<!-- Projects Section with Links -->
-### 📌 Featured Projects
-- [**Marketing And Management System**](https://mams.site)  
-  Developed using Next.js, React, and PocketBase to streamline marketing efforts and enhance staff capabilities.  
-  **Technologies:** Next.js, React, Tailwind CSS, PocketBase
+# 💻 Ripin Densumite
 
-- [**SWEspace**](https://swespace.vercel.app)  
-  A responsive class scheduling web app built with React and Vite, providing cross-device accessibility.  
-  **Technologies:** React, Vite
+### 👋 Hello World!
+I am a passionate **Software Engineering Student** at the **German-Malaysian Institute**, constantly exploring the world of technology.
 
-- [**PharmaGains**](https://pharmagains.ripin.live)  
-  Simple shopping cart system for a pharmacy store, developed using HTML, PHP, and MySQL.  
-  **Technologies:** HTML, PHP, MySQL
+## 🚀 About Me
+- 🌱 Currently learning **Laravel, .NET**, and **Backend Workflow**.
+- 🔭 Working on various **Web Development** projects using **javascript frameworks, and Node.js**.
+- 👨‍💻 Interested in **Mobile App Development**, **Web Development** and **IoT Projects**.
+- 💡 Always curious about **Software Development Practices**.
 
-- [**Portfolio Website**](https://ripindensumite.github.io)  
-  Minimalist-themed portfolio built with React and Vite, designed to showcase my skills visually.  
-  **Technologies:** React, Vite, Umami
+## 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, PocketBase  
+**Database:** MySQL
+**Tools:** Docker, GitHub Actions, CI/CD, Caddy  
+**Languages:** JavaScript, TypeScript, Java, PHP, C, HTML, CSS
+
+## 📚 Projects
+- **Marketing And Management System (MAMS)**: A complete marketing management system.
+- **Portfolio Website**: Showcasing my work and experiences.
+- **PharmaGains**: A PHP-based application for healthcare management.
+
+## 🌐 How to Reach Me
+- **Portfolio:** [ripindensumite.github.io](https://ripindensumite.github.io)
+- **Email:** ariffindensumite@gmail.com
+- **LinkedIn:** [Ripin Densumite](https://www.linkedin.com/in/arifindensumite)
 
 ---
-
-<p align="center">
-  Contact email : marifin.jamdi@student.gmi.edu.my
-</p>
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
