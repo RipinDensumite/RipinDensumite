@@ -4,7 +4,7 @@
 I am a passionate **Software Engineering Student** at the **German-Malaysian Institute**, constantly exploring the world of technology.
 
 ## 🚀 About Me
-- 🌱 Currently learning **Laravel, .NET**, and **Backend Workflow**.
+- 🌱 Currently learning **Laravel**, and **Backend Workflow**.
 - 🔭 Working on various **Web Development** projects using **javascript frameworks, and Node.js**.
 - 👨‍💻 Interested in **Mobile App Development**, **Web Development** and **IoT Projects**.
 - 💡 Always curious about **Software Development Practices**.
