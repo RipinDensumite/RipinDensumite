@@ -24,7 +24,7 @@ I am a passionate **Software Engineering Student** at the **German-Malaysian Ins
 ## 🌐 How to Reach Me
 - **Portfolio:** [ripindensumite.github.io](https://ripindensumite.github.io)
 - **Email:** ariffindensumite@gmail.com
-- **LinkedIn:** [Ripin Densumite](https://www.linkedin.com/in/arifindensumite)
+- **LinkedIn:** [arifin densumite](https://www.linkedin.com/in/arifindensumite)
 
 ---
 ✨ _“even though my brain is somewhat slow, I am capable at locating resources and solving errors as long as I have access to the internet.”_ ✨
