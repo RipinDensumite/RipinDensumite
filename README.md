@@ -12,7 +12,7 @@ I am a passionate **Software Engineering Student** at the **German-Malaysian Ins
 ## 🛠️ Tech Stack
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, PocketBase  
-**Database:** MySQL
+**Database:** MySQL  
 **Tools:** Docker, GitHub Actions, CI/CD, Caddy  
 **Languages:** JavaScript, TypeScript, Java, PHP, C, HTML, CSS
 
