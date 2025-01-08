@@ -1,6 +1,6 @@
 # 💻 Ripin Densumite
 
-### 👋 Hello World!
+### 👋 Hello!
 I am a passionate **Software Engineering Student** at the **German-Malaysian Institute**, constantly exploring the world of technology.
 
 ## 🚀 About Me
