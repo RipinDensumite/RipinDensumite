@@ -9,10 +9,10 @@ I am a passionate **Software Engineering Student** at the **German-Malaysian Ins
 - 👨‍💻 Interested in **Mobile App Development**, **Web Development** and **IoT Projects**.
 - 💡 Always curious about **Software Development Practices**.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack I used to work with
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, PocketBase, Socket.io  
-**Database:** MySQL  
+**Database:** MySQL
 **Tools:** Docker, GitHub Actions, CI/CD, Caddy  
 **Languages:** JavaScript, TypeScript, Java, PHP, C, HTML, CSS
 
