@@ -27,4 +27,4 @@ I am a passionate **Software Engineering Student** at the **German-Malaysian Ins
 - **LinkedIn:** [arifin densumite](https://www.linkedin.com/in/arifindensumite)
 
 ---
-✨ _“even though my brain is somewhat slow, I am capable at locating resources and solving errors as long as I have access to the internet.”_ ✨
+✨ _“even though my brain is somewhat slow, I am like to believe that I am good at finding resources.”_ ✨
